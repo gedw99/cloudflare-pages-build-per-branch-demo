@@ -1,7 +1,12 @@
 # !/bin/bash
 
+# NOTE: do not run this locally, because it will delete .env files
+# The reason the envs are deleted is to ensure that there is no pollution of .env files across CD environemnts.
+
 echo "CF_PAGES_BRANCH=$CF_PAGES_BRANCH"
 echo "NODE_ENV=$NODE_ENV"
+
+make print
 
 if [ "$CF_PAGES_BRANCH" == "production" ]; then
   # Run the "production" script in `package.json` on the "production" branch
