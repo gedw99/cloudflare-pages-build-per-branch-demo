@@ -1,6 +1,6 @@
 # cloudflare-pages-build-per-branch-demo
 
-v2
+
 
 Cloudflare Pages build per branch demo inspired by [How to: Set build commands per branch](https://developers.cloudflare.com/pages/how-to/build-commands-branches/).
 
@@ -14,3 +14,7 @@ Cloudflare Pages build per branch demo inspired by [How to: Set build commands p
 ## License
 
 [MIT](LICENSE)
+
+## console
+
+https://dash.cloudflare.com/7384af54e33b8a54ff240371ea368440/pages/view/cloudflare-pages-build-per-branch-demo
