@@ -12,7 +12,7 @@ This information provides providence as per on git ops best practices, so that y
 
 To track and all Repositories and Databases using or used by this repository refer to the Control Plane Dashboard.
 
-This data is embedded into the built software, so that developers debug issues by recreating the exact environment that a user was running at the time of thie issue. 
+A Fragement of this data is embedded into the built software, so that developers can debug issues by recreating the exact environment that a user was running when the bug occurred.  
 
 ### Meta
 
