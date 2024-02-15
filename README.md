@@ -19,6 +19,6 @@ Cloudflare Pages build per branch demo inspired by [How to: Set build commands p
 
 Master
 
-## console
+## Console
 
 https://dash.cloudflare.com/7384af54e33b8a54ff240371ea368440/pages/view/cloudflare-pages-build-per-branch-demo
