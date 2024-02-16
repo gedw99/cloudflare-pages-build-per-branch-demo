@@ -2,11 +2,13 @@
   "source": "src/index.html",
   "scripts": {
     "build": "bash scripts/build.sh",
+    "build-local": "parcel build",
     "clean": "rm -rf dist/",
     "dev": "rm .env.staging .env.production && parcel build",
     "production": "mv .env.production .env && rm .env.staging && parcel build",
     "staging": "mv .env.staging .env && rm .env.production && parcel build",
     "start": "parcel --open"
+
   },
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "devDependencies": {

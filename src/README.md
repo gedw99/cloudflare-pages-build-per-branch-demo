@@ -4,18 +4,11 @@
 
 Cloudflare Pages build per branch demo inspired by [How to: Set build commands per branch](https://developers.cloudflare.com/pages/how-to/build-commands-branches/).
 
-## Development
-
-Makefile based.
-
-./script/build.sh is for CI ONLY !
-
-
 ## META / SRC / CI / CD
 
 NOTE: All this data is generated in real time by the Control Plane and should not be edited.
 
-This information provides providence as per git ops best practices, so that you can know all system dependences and relationships over time. 
+This information provides providence as per on git ops best practices, so that you can always know the relationships over time. 
 
 To track and all Repositories and Databases using or used by this repository refer to the Control Plane Dashboard.
 

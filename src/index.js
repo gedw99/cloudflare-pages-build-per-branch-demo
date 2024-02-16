@@ -1,4 +1,6 @@
 document.body.innerHTML = `
+
+<h2>CI time generated</h2>
 <table>
   <tr>
     <th>Key</th>

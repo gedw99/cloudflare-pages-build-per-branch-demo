@@ -6,7 +6,8 @@
 echo "CF_PAGES_BRANCH=$CF_PAGES_BRANCH"
 echo "NODE_ENV=$NODE_ENV"
 
-make print
+# not yet...
+# make all
 
 if [ "$CF_PAGES_BRANCH" == "production" ]; then
   # Run the "production" script in `package.json` on the "production" branch
