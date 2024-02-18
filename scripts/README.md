@@ -8,7 +8,7 @@ https://developers.cloudflare.com/pages/configuration/language-support-and-tools
 
 Root README.md
 
-- gen off the Control Plane using a local git hook that runs on a commit. The control pamne knows all relationships.
+- gen off the Control Plane using a local git hook that runs on a commit. The control plane knows all relationships.
 
 Build.sh
 

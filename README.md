@@ -55,7 +55,7 @@ A Fragement of this data is embedded into the built software, so that developers
 | production | https://ubuntusoftware.net/, https://www.ubuntusoftware.net/ | true
 | staging | https://staging.ubuntusoftware.net/ | false
 | dev | https://dev.ubuntusoftware.net/ | false
-| master | https://master.ubuntusoftware.net/ | true
+| master | https://master.ubuntusoftware.net/ | false
 
 
 ## License
