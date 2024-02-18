@@ -1,6 +1,9 @@
 
 all: dep gen build
 
+ci-all:
+	# just do a git commit 
+
 print:
 	@echo ""
 	@echo "Hello Make"
