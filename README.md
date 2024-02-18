@@ -8,7 +8,7 @@ Cloudflare Pages build per branch demo inspired by [How to: Set build commands p
 
 Makefile based.
 
-./script/build.sh is for CI ONLY !
+./script/build.sh is for CI ONLY 
 
 
 ## META / SRC / CI / CD
